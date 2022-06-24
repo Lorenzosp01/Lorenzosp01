@@ -1,7 +1,8 @@
-### Hi there 👋
-
+### Hi, I'm Lorenzo 👋
+- 👀 I’m interested in Web and Low Level Development
+- 📫 How to reach me: lorenzo.spataro09@gmail.com
 <!--
-**Lorenzosp01/Lorenzosp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lorypowa/lorypowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
